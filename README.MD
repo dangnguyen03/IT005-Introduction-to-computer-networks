@@ -7,14 +7,14 @@
 <br/>
 
 # Introduction to Computer Networks
-📡 Comprehensive Resource for Networking Concepts 🌐
+📡 **Comprehensive Resource for Networking Concepts** 🌐
 
 This repository aggregates lab assignments and lecture slides for the Introduction to Computer Networks course. Designed for students and educators, it provides a wealth of materials to enhance your understanding of networking fundamentals.
 
 # Features:
-- Lab Assignments: Hands-on exercises that reinforce key networking concepts and practical skills.
-- Lecture Slides: Downloadable presentations covering essential topics in computer networking.
-- Structured Organization: Easy navigation through materials organized by weeks and topics for efficient study.
+- **Lab Assignments**: Hands-on exercises that reinforce key networking concepts and practical skills.
+- **Lecture Slides**: Downloadable presentations covering essential topics in computer networking.
+- **Structured Organization**: Easy navigation through materials organized by weeks and topics for efficient study.
 
 Explore, learn, and deepen your knowledge of computer networks with these valuable resources!
 
